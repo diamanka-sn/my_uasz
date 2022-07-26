@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tab_formation">
+        <item>Software Engineering</item>
+        <item>Networks and Systems</item>
+        <item>Sociology</item>
+        <item>Modern Letter</item>
+        <item>Telecoms</item>
+    </string-array>
+    <string-array name="tab_details">
+        <item>Java, UML, C, Oracle, Linux, Mysql, PHP, Javascript, Laravel, Spring boot, Android. Mobile dev, Web dev, Fullstack dev, DBA</item>
+        <item>Network services, Systems, Security network, Java, Oracle, Linux, Qos, VoIP, Virtualization. Sys admin, Network admin, DBA</item>
+        <item>Sociology</item>
+        <item>Modern Letter</item>
+        <item>Telecoms</item>
+    </string-array>
+</resources>

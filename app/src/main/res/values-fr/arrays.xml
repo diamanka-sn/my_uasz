@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tab_formation">
+        <item>Genie logiciel</item>
+        <item>Réseaux et systemes</item>
+        <item>Sociologie</item>
+        <item>Lettre moderne</item>
+        <item>Telecoms</item>
+    </string-array>
+    <string-array name="tab_details">
+        <item>Java, UML, C, Oracle, Linux, Mysql, PHP, Javascript, Laravel, Spring boot, Android. Dev mobile, Dev web, Fullstack dev, DBA</item>
+        <item>Services réseaux, Systemes, Securité réseaux, Java, Oracle, Linux, Qos, VoIP, Virtualisation. Admin Sys, Admin réseaux, DBA</item>
+        <item>Sociologie</item>
+        <item>Lettre moderne</item>
+        <item>Telecoms</item>
+    </string-array>
+</resources>

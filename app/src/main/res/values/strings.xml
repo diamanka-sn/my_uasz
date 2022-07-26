@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">My Uasz</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="connect">Connect</string>
+    <string name="sign_up">Sign up</string>
+    <string name="email">uasz@uasz.edu.sn</string>
+    <string name="presentation">Presentation</string>
+    <string name="formation">Formation</string>
+    <string name="mark">Mark</string>
+    <string name="university">University</string>
+    <string name="events">Events</string>
+    <string name="help">Help</string>
+    <string name="back">Back</string>
+    <string name="inscription">Inscription</string>
+    <string name="first_name">First name</string>
+    <string name="last_name">Last name</string>
+    <string name="degrees">Degrees</string>
+    <string name="o_level">0 Level</string>
+    <string name="bachelor">Bachelor</string>
+    <string name="master">Master</string>
+    <string name="save">Save</string>
+    <string name="welcome">Welcome</string>
+    <string name="wait">Please wait</string>
+    <string name="error_fields">Require fields</string>
+    <string name="error_connection">Connection errors</string>
+    <string name="error_parameters">Error parameters</string>
+    <string name="success_inscription">Inscription success</string>
+    <string name="error_inscription">Inscription Failed</string>
+    <string name="error_create">User not created</string>
+    <string name="error_update">User not updated</string>
+    <string name="error_delete">User not deleted</string>
+    <string name="error_list">User not Listed</string>
+    <string name="success_create">User created</string>
+    <string name="success_update">User updated</string>
+    <string name="success_delete">User deleted</string>
+    <string name="success_list">User Listed</string>
+    <string name="connection">Connection</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="uasz">J\'ai l\'honneur de vous exprimer en toute solennité mes amitiés institutionnelles pour l\'intérêt que vous manifestez à travers ce clic à l\'Université Assane Seck de Ziguinchor (UASZ) implantée en terre casamançaise. Je vous souhaite la bienvenue dans cette verte Casamance, située dans la  zone sud du Sénégal et, en outre, marquée par la pluviométrie la plus abondante du pays de la Téranga légendaire. A l\'image des grands hommes du XXe siècle, les universitaires casamançais ont joué un rôle majeur dans la détermination des choix fondamentaux de notre société. D\'illustres enseignants de renommé internationale ont eu à siéger aux plus hautes fonctions de l\'Etat. A l\'entame du XXIe siècle, précisément en 2007, la Casamance qui fut l\'un des plus importants foyers de la transmission du savoir a contribué à l\'enrichissement de la carte universitaire nationale dans un monde en mutation accélérée. L\'institution d\'une université de plein exercice la détermination à mettre le savoir, la réflexion et l\'innovation au cœur de la société dans le contexte du renouveau de la modernisation des administrations, à travers la refondation majeure de l\'action territoriale de l\'Etat. La situation géographique transfrontalière faisant de la Casamance un carrefour transactionnel et par conséquent structurant des relations toute azimut entre la Gambie, la Guinée-Conakry, le Sénégal et la Guinée-Bissau place systématiquement l\'UASZ au cœur des enjeux géopolitiques contemporains et en fait la centralité du temple névralgique de la géostratégique dans les espaces OHADA, CEDEAO et UEMOA.
+Une des nouvelles missions nouvellement dévolues à l\'Université africaine m\'a davantage conforté dans mes tenaces convictions qu\'une meilleure appréhension susceptible de sous-tendre une appropriation constructive est un gage de la redynamisation protectrice de notre espace environnemental à préserver. L\'engagement citoyen de l\'ensemble des acteurs impliqué dans la marche de l\'institution vers une ouverture de l\'UASZ au monde de l\'Entreprise. Il convient de relever que 45% des enseignements sont le fruit d\'une collaboration avec le monde professionnel. L\'objectif recherché consiste à préparer nos apprenants à pouvoir définir par eux-mêmes, à se doter de la capacité à décliner et à dérouler leur plan de carrière dans le cadre d\'un projet professionnel très tôt pris en main en toute efficacité. L\'Université constitue un segment catalyseur voire un lien majeur entre le monde de la décision publique, et celui de l\'entreprise du fait notamment de la place que j\'accorde à la recherche et à l\'innovation. Haut lieu de définition du savoir humain, l\'université n\'exclut aucun savoir, qu\'il soit théorique, concret ou pratique, disons opérationnel. En effet, la transmission de compétences professionnelles est tout autant au cœur de la mission de l\'Université que la diffusion de connaissances abstraites.
+Réalité palpable autant que projet d\'avenir pour notre société, j\'entends donner les impulsions nécessaires afin d\'engager l\'UASZ à s\'orientée résolument pour devenir un forum de la société de la connaissance apportant la plus belle réponse aux défis du XXIe siècle tenant à la mondialisation, à l\'innovation et à l\'intégration africaine. A cet effet, l\'UASZ présente une offre d\'enseignements partant de la Licence au doctorat, en passant par les Masters ; à travers quatre Unités de  Formations et de Recherches « UFR » constituées de :
+UFR des Lettres, Arts et Sciences Humaines (LASHU)
+UFR des Sciences et Technologies (ST)
+UFR des Sciences Economiques et Sociales (SES)
+UFR des Sciences de la Santé (SS)
+Outil d\'implémentation originelle du système Licence Master Doctorat (LMD) parce que née de la volonté de rupture avec l\'ancien système, le corps professoral de l\'UASZ s\'évertue au quotidien, à étudier autrement, à enseigner autrement afin de répondre à l\'enjeu vital de l\'employabilité de nos jeunes diplômés, tout en développant leur esprit d\'entreprise et d\'entreprenariat. En effet, nos formations se professionnalisent ; nos enseignements et apprentissages transforment le savoir en savoir-faire, allient la théorie à la pratique. C\'est ainsi qu\'après un parcours en licence, des possibilités d\'emplois s\'offrent déjà à nos jeunes diplômés grâce au soutien de la Direction Insertion et stages. Cependant d\'autres possibilités s\'offrent à eux à savoir :
+la création d\'entreprises avec l\'impulsion de notre incubateur ZIG-INOV ;
+la poursuite de leur carrière vers des filières de masters ou d\'ingénieries, avec le concours des différentes UFRs ;
+nos apprenants peuvent également poursuivre leur formation à travers le monde, dans des universités et grandes écoles partenaires de l\'UASZ.
+Haut lieu de la recherche, l\'UASZ s\'illustre avec le dynamisme de ses laboratoires qui jouent le rôle de sentinelle du savoir à travers des formules diversifiées d\'animation scientifique (colloques, congrès, journées d\'études, séminaires, ateliers…). Le succès éclatant connu jusque-là par ces évènements scientifiques s\'en trouve étayé par l\'apport déterminant de son Laboratoire de biochimie durant la pandémie du COVID 19. Le vote du deuxième plan stratégique, couvrant la période 2020-2024, est élaboré à l\'UASZ dans un contexte marqué par la mise en œuvre des décisions présidentielles sur l\'enseignement supérieur, l\'application de la loi n°2015-26 du 28 décembre 2015 relative aux universités publiques et la loi n°2016-07 du 02 mars 2016 modifiant certaines dispositions de la loi n°81-59 du 09 novembre 1981 portant statut du personnel enseignant des universités. Dans cet ordre d\'idées, d\'importants investissements sont engagés dans le cadre de l\'extension de l\'Université afin de résorber en partie le gap infrastructurel depuis sa création en 2007. Ce  plan stratégique s\'est voulu inclusif dans son élaboration avec l\'implication de toutes les composantes, personnel enseignant et de recherche, personnel administratif, technique et de service, étudiants.
+J\'exprime les vœux très sincères que le destin fasse un jour que votre chemin croise l\'UASZ pour saisir l\'opportunité de constater la passion des enseignants-chercheurs et des membres du personnel administratif et technique dans l\'exercice, avec une détermination sans faille et un enthousiasme débordant ; de leurs missions. Telle une famille unie, soudée et solidaire, les apprenants bénéficient d\'excellentes conditions de travail dans l\'acquisition de la plus-value déterminante que constitue notre formation universitaire.</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
